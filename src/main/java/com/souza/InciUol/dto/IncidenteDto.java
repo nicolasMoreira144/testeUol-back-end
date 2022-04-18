@@ -1,4 +1,4 @@
-package com.souza.InciUol;
+package com.souza.InciUol.dto;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;

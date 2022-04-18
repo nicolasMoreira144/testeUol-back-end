@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.souza.InciUol.IncidenteDto;
+import com.souza.InciUol.dto.IncidenteDto;
 import com.souza.InciUol.service.IncidenteService;
 
 
