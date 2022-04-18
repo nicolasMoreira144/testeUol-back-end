@@ -22,7 +22,6 @@ public class IncidenteController {
 	
 	@CrossOrigin(origins = "http://localhost:4200")
 
-	
 	@GetMapping
 	public ResponseEntity<List<IncidenteDto>> listar2() {
 		List<IncidenteDto> incidentesDto = incidenteService.listar();
